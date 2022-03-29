@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanth011" alt="hemanth011" /></a> </p>
 
-- 🔭 I’m currently student on **cvrm college**
+- 🔭 I’m currently student at **cvrm degree college**
 
 - 🌱 I’m currently learning **data science**
 
